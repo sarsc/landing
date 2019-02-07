@@ -1,0 +1,22 @@
+.btn {
+  text-decoration: none;
+  padding: 16px 36px;
+  border-radius: 4px;
+  color: #212529;
+  line-height: 1.5;
+  font-size: .6875rem;
+  font-weight: bold;
+  letter-spacing: .3em;
+}
+
+.btn-light {
+  color: #212529;
+  background-color: #f8f9fa;
+  text-transform: uppercase;
+}
+
+.btn-light:hover {
+  color: #868e96;
+  border: 1px solid #ebf0f6;
+}
+
